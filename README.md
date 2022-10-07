@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @assassin-is-online AKA TANVEEN
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on any begainer friendly prject.
+- 💞️ I’m looking to collaborate on any begainer friendly project.
 - 📫 How to reach me by mailing me at tanveenislam@gmail.com
 
 <!---
